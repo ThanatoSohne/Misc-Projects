@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sun Oct  4 17:28:13 2020
 
 The Self-Taught Programmer by Cory Althoff
 
